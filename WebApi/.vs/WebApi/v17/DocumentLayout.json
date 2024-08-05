@@ -50,8 +50,7 @@
               "RelativeToolTip": "WebApi\\Controllers\\AuthorsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T22:29:16.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T22:29:16.394Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "WebApi\\Controllers\\BooksController.cs",
               "ViewState": "AQIAAHkAAAAAAAAAAADwv0oAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T22:28:02.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T22:28:02.895Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "WebApi\\Models\\Author.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T21:54:24.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T21:54:24.758Z"
             },
             {
               "$type": "Document",
@@ -89,8 +86,7 @@
               "RelativeToolTip": "WebApi\\Models\\Book.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAxwA8AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T21:54:16.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T21:54:16.767Z"
             },
             {
               "$type": "Document",
@@ -100,7 +96,7 @@
               "RelativeDocumentMoniker": "WebApi\\Models\\LibraryContext.cs",
               "ToolTip": "D:\\Library\\library\\WebApi\\WebApi\\Models\\LibraryContext.cs",
               "RelativeToolTip": "WebApi\\Models\\LibraryContext.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAQwCoAAAAiAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwCoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T21:51:49.665Z",
               "EditorCaption": ""
@@ -115,8 +111,7 @@
               "RelativeToolTip": "WebApi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-04T21:04:06.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T21:04:06.541Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "WebApi\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T21:01:05.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T21:01:05.837Z"
             }
           ]
         },
