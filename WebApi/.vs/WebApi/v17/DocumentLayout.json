@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "D:\\Library\\library\\WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B560CE56-77D8-404C-BA54-173E1C4D8262}|WebApi\\WebApi.csproj|d:\\library\\library\\webapi\\webapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B560CE56-77D8-404C-BA54-173E1C4D8262}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B560CE56-77D8-404C-BA54-173E1C4D8262}|WebApi\\WebApi.csproj|d:\\library\\library\\webapi\\webapi\\models\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B560CE56-77D8-404C-BA54-173E1C4D8262}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B560CE56-77D8-404C-BA54-173E1C4D8262}|WebApi\\WebApi.csproj|d:\\library\\library\\webapi\\webapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B560CE56-77D8-404C-BA54-173E1C4D8262}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Library\\library\\WebApi\\WebApi\\Models\\LibraryContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApi\\Models\\LibraryContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B560CE56-77D8-404C-BA54-173E1C4D8262}|WebApi\\WebApi.csproj|d:\\library\\library\\webapi\\webapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B560CE56-77D8-404C-BA54-173E1C4D8262}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B560CE56-77D8-404C-BA54-173E1C4D8262}|WebApi\\WebApi.csproj|d:\\library\\library\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B560CE56-77D8-404C-BA54-173E1C4D8262}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B560CE56-77D8-404C-BA54-173E1C4D8262}|WebApi\\WebApi.csproj|d:\\library\\library\\webapi\\webapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B560CE56-77D8-404C-BA54-173E1C4D8262}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B560CE56-77D8-404C-BA54-173E1C4D8262}|WebApi\\WebApi.csproj|d:\\library\\library\\webapi\\webapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B560CE56-77D8-404C-BA54-173E1C4D8262}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B560CE56-77D8-404C-BA54-173E1C4D8262}|WebApi\\WebApi.csproj|d:\\library\\library\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B560CE56-77D8-404C-BA54-173E1C4D8262}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B560CE56-77D8-404C-BA54-173E1C4D8262}|WebApi\\WebApi.csproj|d:\\library\\library\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B560CE56-77D8-404C-BA54-173E1C4D8262}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +38,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "D:\\Library\\library\\WebApi\\WebApi\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AuthorsController.cs",
+              "ToolTip": "D:\\Library\\library\\WebApi\\WebApi\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:29:16.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Library\\library\\WebApi\\WebApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\Library\\library\\WebApi\\WebApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAADwv0oAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:28:02.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Author.cs",
               "DocumentMoniker": "D:\\Library\\library\\WebApi\\WebApi\\Models\\Author.cs",
               "RelativeDocumentMoniker": "WebApi\\Models\\Author.cs",
               "ToolTip": "D:\\Library\\library\\WebApi\\WebApi\\Models\\Author.cs",
               "RelativeToolTip": "WebApi\\Models\\Author.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T21:54:24.758Z",
               "EditorCaption": ""
@@ -53,27 +87,27 @@
               "RelativeDocumentMoniker": "WebApi\\Models\\Book.cs",
               "ToolTip": "D:\\Library\\library\\WebApi\\WebApi\\Models\\Book.cs",
               "RelativeToolTip": "WebApi\\Models\\Book.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA8AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T21:54:16.767Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "LibraryContext.cs",
               "DocumentMoniker": "D:\\Library\\library\\WebApi\\WebApi\\Models\\LibraryContext.cs",
               "RelativeDocumentMoniker": "WebApi\\Models\\LibraryContext.cs",
               "ToolTip": "D:\\Library\\library\\WebApi\\WebApi\\Models\\LibraryContext.cs",
               "RelativeToolTip": "WebApi\\Models\\LibraryContext.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAswCgAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwCoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T21:51:49.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Library\\library\\WebApi\\WebApi\\appsettings.json",
               "RelativeDocumentMoniker": "WebApi\\appsettings.json",
@@ -86,13 +120,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Library\\library\\WebApi\\WebApi\\Program.cs",
               "RelativeDocumentMoniker": "WebApi\\Program.cs",
               "ToolTip": "D:\\Library\\library\\WebApi\\WebApi\\Program.cs",
               "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T21:01:05.837Z",
               "EditorCaption": ""
